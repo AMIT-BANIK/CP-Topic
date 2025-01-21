@@ -32,3 +32,7 @@ int main()
  
     return 0;
 }
+
+Practice Problem:
+1. https://cses.fi/problemset/task/1646/ 
+2. https://www.spoj.com/problems/CSUMQ/
